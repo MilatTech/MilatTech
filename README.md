@@ -39,11 +39,14 @@
   <a href="https://www.twitter.com/MilatTech" target="_blank">
     <img align="center" src="x.png" alt="X" height="30" width="40" />
   </a>
-  <a href="https://www.github.com" target="_blank">
-    <img align="center" src="5.png" alt="GitHub" height="30" width="40" />
+    <a href="#" target="_blank">
+    <img align="center" src="linkedin.png" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://www.tiktok.com" target="_blank">
-    <img align="center" src="6.png" alt="TikTok" height="30" width="40" />
+    <a href="#" target="_blank">
+    <img align="center" src="discord.png" alt="Discord" height="30" width="40" />
+  </a>
+  <a href="https://www.youtube.com/@MilatTech" target="_blank">
+    <img align="center" src="youtube.jpg" alt="YouTube" height="30" width="40" />
   </a>
 </p>
 

@@ -1,34 +1,53 @@
-![](https://komarev.com/ghpvc/?username=Star-Nova&color=green)
-[![YouTube](https://img.shields.io/badge/YouTube-Channel-%23E62117)](https://www.youtube.com/channel/UCUC_tAhpw0kW-svWJRTrNAQ)
-&nbsp; ![GitHub](https://img.shields.io/github/followers/Star-Nova?label=Follow%20Me%21&style=social)
+<!-- Visitor badge -->
+![Profile Views](https://komarev.com/ghpvc/?username=Star-Nova&color=green)
 
-<!-- En üste GIF'i ekliyoruz -->
+<!-- YouTube Badge -->
+[![YouTube](https://img.shields.io/badge/YouTube-Channel-%23E62117)](https://www.youtube.com/channel/UCUC_tAhpw0kW-svWJRTrNAQ)
+
+<!-- GitHub Followers Badge -->
+![GitHub](https://img.shields.io/github/followers/Star-Nova?label=Follow%20Me%21&style=social)
+
+<!-- GIF -->
 <p align="center">
   <img src="https://github.com/Star-Nova/Star-Nova/blob/main/Hello.gif" alt="Hello GIF" width="300" height="100"/>
 </p>
 
+<!-- Title and Subtitle -->
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, We are Milat Tech</h1>
 <h3 align="center">Technology Team from Türkiye</h3>
 
-- 🌱 I’m currently learning **Python, HTML, C, Django**
+<!-- About Section -->
+<ul>
+  <li>🌱 I’m currently learning <strong>Python, HTML, C, Django</strong></li>
+  <li>👀 I’m interested in <strong>Software</strong></li>
+  <li>😄 Pronouns: <strong>Kod_Yazari</strong></li>
+  <li>💬 Ask me about <strong>Python</strong></li>
+</ul>
 
-- 👀 I’m interested in **Software**
-
-- 😄 Pronouns: **Kod_Yazari**
-
-- 💬 Ask me about **Python**
-
+<!-- Contact Us Section -->
 <h3 align="left">Contact Us:</h3>
 <p align="left">
   <a href="https://www.youtube.com/channel/UCUC_tAhpw0kW-svWJRTrNAQ" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="softwareandmathematics" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
+  </a>
+  <a href="https://www.facebook.com" target="_blank">
+    <img align="center" src="1.png" alt="Facebook" height="30" width="40" />
+  </a>
+  <a href="https://www.twitter.com" target="_blank">
+    <img align="center" src="2.png" alt="Twitter" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com" target="_blank">
+    <img align="center" src="3.png" alt="Instagram" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com" target="_blank">
+    <img align="center" src="4.png" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.github.com" target="_blank">
+    <img align="center" src="5.png" alt="GitHub" height="30" width="40" />
+  </a>
+  <a href="https://www.tiktok.com" target="_blank">
+    <img align="center" src="6.png" alt="TikTok" height="30" width="40" />
   </a>
 </p>
 
 
-<!-- Görselleri bu bölüme ekliyoruz ve yan yana olacak şekilde düzenliyoruz -->
-<p align="center">
-  <img src="https://github.com/Star-Nova/Star-Nova/blob/main/DeveloperIcon.png" alt="Developer Icon" width="100" height="100"/>
-  <img src="https://github.com/Star-Nova/Star-Nova/blob/main/KODYAZARI.png" alt="Kod_Yazarı" width="200" height="200"/>
-  <img src="https://github.com/Star-Nova/Star-Nova/blob/main/DeveloperIcon.png" alt="Developer Icon" width="100" height="100"/>
-</p>

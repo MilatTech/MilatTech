@@ -2,7 +2,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=MilatTech&color=green)
 
 <!-- YouTube Badge -->
-[![YouTube](https://img.shields.io/badge/YouTube-Channel-%23E62117)](https://www.youtube.com/channel/UCUC_tAhpw0kW-svWJRTrNAQ)
+[![YouTube](https://img.shields.io/badge/YouTube-Channel-%23E62117)](https://www.youtube.com/@MilatTech)
 
 <!-- GitHub Followers Badge -->
 ![GitHub](https://img.shields.io/github/followers/MilatTech?label=Follow%20Me%21&style=social)

@@ -1,11 +1,11 @@
 <!-- Visitor badge -->
-![Profile Views](https://komarev.com/ghpvc/?username=Star-Nova&color=green)
+![Profile Views](https://komarev.com/ghpvc/?username=MilatTech&color=green)
 
 <!-- YouTube Badge -->
 [![YouTube](https://img.shields.io/badge/YouTube-Channel-%23E62117)](https://www.youtube.com/channel/UCUC_tAhpw0kW-svWJRTrNAQ)
 
 <!-- GitHub Followers Badge -->
-![GitHub](https://img.shields.io/github/followers/Star-Nova?label=Follow%20Me%21&style=social)
+![GitHub](https://img.shields.io/github/followers/MilatTech?label=Follow%20Me%21&style=social)
 
 <!-- GIF -->
 <p align="center">
@@ -18,10 +18,8 @@
 
 <!-- About Section -->
 <ul>
-  <li>🌱 I’m currently learning <strong>Python, HTML, C, Django</strong></li>
-  <li>👀 I’m interested in <strong>Software</strong></li>
-  <li>😄 Pronouns: <strong>Kod_Yazari</strong></li>
-  <li>💬 Ask me about <strong>Python</strong></li>
+  <li>💛💜In Technology<strong>We Will Become a Milestone</strong></li>
+  <li>💬 Come on too <strong>Join Us</strong></li>  
 </ul>
 
 <!-- Contact Us Section -->

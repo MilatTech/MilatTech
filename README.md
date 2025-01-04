@@ -31,7 +31,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
   </a>
   <a href="mailito:milattech2024@gmail.com" target="_blank">
-    <img align="center" src="1.png" alt="E Mail" height="30" width="40" />
+    <img align="center" src="17-web.png" alt="E Mail" height="30" width="40" />
   </a>
   <a href="https://www.twitter.com" target="_blank">
     <img align="center" src="2.png" alt="Twitter" height="30" width="40" />

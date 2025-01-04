@@ -33,14 +33,11 @@
   <a href="mailito:milattech2024@gmail.com" target="_blank">
     <img align="center" src="17-web.png" alt="E Mail" height="30" width="40" />
   </a>
-  <a href="https://www.twitter.com" target="_blank">
-    <img align="center" src="2.png" alt="Twitter" height="30" width="40" />
+  <a href="https://www.instagram.com/milattech" target="_blank">
+    <img align="center" src="15-instagram.png" alt="Instagram" height="30" width="40" />
   </a>
-  <a href="https://www.instagram.com" target="_blank">
-    <img align="center" src="3.png" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com" target="_blank">
-    <img align="center" src="4.png" alt="LinkedIn" height="30" width="40" />
+  <a href="https://www.twitter.com/MilatTech" target="_blank">
+    <img align="center" src="x.png" alt="X" height="30" width="40" />
   </a>
   <a href="https://www.github.com" target="_blank">
     <img align="center" src="5.png" alt="GitHub" height="30" width="40" />

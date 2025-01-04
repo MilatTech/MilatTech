@@ -28,6 +28,9 @@
   <a href="mailto:milattech2024@gmail.com" target="_blank">
     <img align="center" src="17-web.png" alt="E Mail" height="40" width="50" />
   </a>
+  <a href="http://milattech.html-5.me/?i=1" target="_blank">
+    <img align="center" src="17-web.png" alt="Web Site" height="40" width="50" />
+  </a>
   <a href="https://www.instagram.com/milattech" target="_blank">
     <img align="center" src="15-instagram.png" alt="Instagram" height="40" width="50" />
   </a>

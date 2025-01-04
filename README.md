@@ -31,22 +31,22 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
   </a>
   <a href="mailito:milattech2024@gmail.com" target="_blank">
-    <img align="center" src="17-web.png" alt="E Mail" height="30" width="40" />
+    <img align="center" src="17-web.png" alt="E Mail" height="40" width="50" />
   </a>
   <a href="https://www.instagram.com/milattech" target="_blank">
-    <img align="center" src="15-instagram.png" alt="Instagram" height="30" width="40" />
+    <img align="center" src="15-instagram.png" alt="Instagram" height="40" width="50" />
   </a>
   <a href="https://www.twitter.com/MilatTech" target="_blank">
-    <img align="center" src="x.png" alt="X" height="30" width="40" />
+    <img align="center" src="x.png" alt="X" height="40" width="50" />
   </a>
     <a href="#" target="_blank">
-    <img align="center" src="linkedin.png" alt="LinkedIn" height="30" width="40" />
+    <img align="center" src="linkedin.png" alt="LinkedIn" height="40" width="50" />
   </a>
     <a href="#" target="_blank">
-    <img align="center" src="discord.png" alt="Discord" height="30" width="40" />
+    <img align="center" src="discord.png" alt="Discord" height="40" width="50" />
   </a>
   <a href="https://www.youtube.com/@MilatTech" target="_blank">
-    <img align="center" src="youtube.jpg" alt="YouTube" height="30" width="40" />
+    <img align="center" src="youtube.jpg" alt="YouTube" height="40" width="50" />
   </a>
 </p>
 
